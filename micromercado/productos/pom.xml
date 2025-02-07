@@ -13,7 +13,9 @@
 	<artifactId>productos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>productos</name>
-	
+	<description>Microservicio que maneja los productos del micromercado</description>
+	<packaging>jar</packaging>
+
 	<properties>
 		<java.version>21</java.version>
 	</properties>
